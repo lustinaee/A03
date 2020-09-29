@@ -5,7 +5,7 @@ Sign up for an account on **GitHub**. As for WebStorm and **Git**, download and 
 
 Click on "Create New Project". After selecting a location and name, proceed and click on File -> New -> HTML File -> HTML 5. After editing your file, go to VCS -> Import into Version Control -> Create Git Repository. Hit OK and then select VCS->Git -> Commit File. Click **Commit** to make your changes.
 
-Now we will move onto **GitHub**. Select VCS -> Import into Version Control -> Share Project on Github. Enter the necessary information and hit "Share". If successful, then the **repository** should pop up in your **GitHub** account.
+Now we will move onto **GitHub**. Select VCS -> Import into Version Control -> Share Project on Github. Enter the necessary information and hit "Share". If successful, then the **repository** should pop up in your **GitHub** account. Within the folder, you can also add additional files such as a readme. You can do so towards the top where it says README.md. To create a new **repository** on **GitHub**, on the left panel, click on the green "New" button. On the next page, you can name your **repository** as well as set it to public/private, add a readme with it, etc.
 
 
 Part 2: Glossary
@@ -15,9 +15,9 @@ Part 2: Glossary
 - Fetch: Downloads commits from a remote repository to a local one. 
 - GIT: An application that works synonousmly with Github. It keeps track of alterations within 
 - Github: A platform that provides a hosting service for software development, coding, and the like.
-- Merge
-- Merge Conflict
-- Push
+- Merge: Integrates all the branches of a development project into a single line.
+- Merge Conflict: When Git cannot resolve a difference in commits. You must approve of the differenct changes to incorporate them into the final merge.
+- Push:
 - Pull
 - Remote
 - Repository
