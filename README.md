@@ -18,7 +18,7 @@ Part 2: Glossary
 - Merge: Integrates all the branches of a development project into a single line.
 - Merge Conflict: When Git cannot resolve a difference in commits. You must approve of the differenct changes to incorporate them into the final merge.
 - Push: Uploads commits from your local repository to a remote one. Often done to share modifactions with team members.
-- Pull: 
+- Pull: Updates local branches and repositories with changes from the remote file.
 - Remote: A shared place where all code is stored. Remotes come in the form of URLs.
 - Repository: Used to separate and organize projects. Contains all aspect of the work within like a folder.
 
