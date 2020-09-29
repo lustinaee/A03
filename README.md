@@ -13,13 +13,13 @@ Part 2: Glossary
 
 - Branch: A set of changes in development work. Branches allow for safe experimentation with new ideas, all of which merge into one main branch.
 - Clone: Copies or downloads a repository to your local machine.
-- Commit: Identical to saving projects. Records edits made to development work in your branch. Allows 
+- Commit: Identical to saving projects. Records edits made to development work in your branch. 
 - Fetch: Downloads commits from a remote repository to a local one. 
-- GIT: An application that works synonymously with Github. It keeps track of alterations within 
-- Github: A platform that provides a hosting service for software development, coding, and the like.
+- GIT: An application that works synonymously with GitHub. It keeps track of alterations within code and allows for development between GitHub and select editors.
+- GitHub: A large platform that provides a hosting service for software development, coding, and the like.
 - Merge: Integrates all the branches of a development project into a single line.
-- Merge Conflict: When Git cannot resolve a difference in commits. You must approve of the differenct changes to incorporate them into the final merge.
-- Push: Uploads commits from your local repository to a remote one. Often done to share modifactions with team members.
+- Merge Conflict: When Git cannot resolve a difference in commits. You must approve of the different changes to incorporate them into the final merge.
+- Push: Uploads commits from your local repository to a remote one. Often done to share modifications with team members.
 - Pull: Updates local branches and repositories with changes from the remote file.
 - Remote: A shared place where all code is stored. Remotes come in the form of URLs.
 - Repository: Used to separate and organize projects. Contains all aspect of the work within like a folder.
